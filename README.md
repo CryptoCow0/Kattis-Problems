@@ -12,6 +12,7 @@ extracredit.py (I forgot which Kattis problem this was for... whoops...)
 (import geomtry.py it'll make your life so much easier)
 Anthony and Diablo
 
+## Organization
+The rest are split into weeks ranging from different topics as I went through the semester and tried new problems!
+I'll update this for readability but most files are properly labeled.
 
-The rest are split into weeks ranging from different topics as I went through in the semester and tried new problems!
-I'll update this for readability but most files are properly labeled. 
