@@ -1,0 +1,9 @@
+Key idea: 
+Iteraivly check successive prefiexs of ThoreHusfeldt # use CHatGPT
+print next prefix at the end
+
+Two Psecial cases:
+First place is ThoreHusfeldt, print "Thore is awseome"
+Any name starts with THoreHusfeld, print "Thore sucks"
+
+

@@ -1,0 +1,23 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Explicitly specify LF line endings for all text files
+*.txt text eol=lf
+
+# Use LF for Python scripts
+*.py text eol=lf
+
+# Use LF for shell scripts
+*.sh text eol=lf
+
+# Use CRLF for Windows batch scripts
+*.bat text eol=crlf
+
+# Handle Markdown files
+*.md text eol=lf
+
+# Binary files should not be modified
+*.png binary
+*.jpg binary
+*.gif binary
+*.pdf binary

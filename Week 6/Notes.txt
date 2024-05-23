@@ -1,0 +1,13 @@
+Question 1: Re-Space
+Given a long document with no spaces and a set of vlaid words, desing an algorithm to unconcatenet / re-space the document in a way which minimizes the number of unreconginzed characters
+
+
+Input:
+    jesslookedjustliketimherbrother
+    {brother, her, just , like, looked}
+
+Output: jess looked just like tim her brother
+
+
+
+

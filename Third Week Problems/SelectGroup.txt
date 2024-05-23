@@ -1,0 +1,18 @@
+SelectGroup Problem
+
+
+This is a parsing problem
+
+CSCI 425 - Compier Design Keith Heldman
+
+
+Make a tree with a parsing problem
+
+
+making the tree is called the grammar
+
+Solutions:
+1. Save groups in a map
+2. Write a mutually-recursive functions: one per production rule
+3. Call ParseSelect function on each input line.
+

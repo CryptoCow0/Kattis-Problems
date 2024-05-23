@@ -1,0 +1,28 @@
+line sgement.
+
+edge cases:
+
+
+
+make the lines
+
+is parrllel:
+
+
+find y intercepts if parrlel and if not the same then line segments don't ineresect else
+
+
+
+
+if (l1.sameAs(l2)):
+the overlap is always one of the four points given such that p1 is always left to p2 and p3 is left p4
+
+if you sort the points then osrt hte lines 
+start will always be be p3
+end will be min (p2, p4)
+
+if start == end
+print(start)
+
+else
+print(start,end)
